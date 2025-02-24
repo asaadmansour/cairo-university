@@ -25,7 +25,6 @@ A responsive and interactive clone of the Cairo University website, built with m
 Cairo-uni/
 │── index.html   # Main HTML file
 │── styles.css   # Core styling file
-│── script.js    # JavaScript for interactivity (if applicable)
 └── assets/      # Images and other assets
 ```
 

@@ -11,7 +11,6 @@ A responsive and interactive clone of the Cairo University website, built with m
   - Custom animations and transitions
   - Mega menu navigation
   - Grid and flexbox layouts
-- **JavaScript** – Interactive components and user experience enhancements
 - **Netlify** – Deployed for live preview
 
 ## 🎨 Features
